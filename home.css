@@ -14,16 +14,16 @@
     background-repeat: no-repeat;
 }
 .slide1{
-    background-image: url('../../Images/assassin.png')
+    background-image: url('Images/assassin.png')
 }
 .slide2{
-    background-image: url('../../Images/pokemon.png')
+    background-image: url('Images/pokemon.png')
 }
 .slide3{
-    background-image: url('../../Images/witch.png')
+    background-image: url('Images/witch.png')
 }
 .slide4{
-    background-image: url('../../Images/sims.png')
+    background-image: url('Images/sims.png')
 }
 .slide-content{
     display: flex;

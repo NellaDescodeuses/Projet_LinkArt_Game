@@ -352,7 +352,7 @@ $(document).ready(function(){
 })
 
 
-$(document).ready(function(){//fonction relier avec mon <a>X</a> pour effacer le input et recharger la page
+$(document).ready(function(){//fonction relier avec mon <a>X</a> pour effacer le input et recharcger la page
 $("#refrech").click(function(){
    $("#searchBar").val("");
     location.reload();

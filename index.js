@@ -18,14 +18,14 @@ $(document).ready(function(){
         alert("veuillez écrire un pseudo")
     }else{
         $("#box").hide();
-        $("#box1").html("<h1 class='text-center title1 col-lg-7 col-12'>Bienvenue "+inputVal+"</h1>"+"<br/>"+"<div class='col-lg-7  d-flex flex-column '><img class='mx-auto image-responsive image1' src='../../Images/logo.png'>"+"<button class=' mx-auto  input2'> "+"<a href='../../home.html'>"+"Entrer dans "+"notre univers</a> "+"</button>"+"</div>"
+        $("#box1").html("<h1 class='text-center title1 col-lg-7 col-12'>Bienvenue "+inputVal+"</h1>"+"<br/>"+"<div class='col-lg-7  d-flex flex-column '><img class='mx-auto image-responsive image1' src='Images/logo.png'>"+"<button class=' mx-auto  input2'> "+"<a href='home.html'>"+"Entrer dans "+"notre univers</a> "+"</button>"+"</div>"
         +"<div class='col-lg-12 d-flex justify-content-end'>"+
         "<div >"+"<p class='col-lg-12 style1'> © 2021 Link'ArtGame</p>"+"</div>"+
     "</div>");
-       
+
     }
   })
-    
+
 })
 
 // // TEST - JQUERY FONCTIONNE
